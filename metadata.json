@@ -1,0 +1,5 @@
+{
+  "name": "Video Translator & Dubber",
+  "description": "A full-stack web application that automates video translation and dubbing (English to Myanmar) using Gemini and FFmpeg.",
+  "requestFramePermissions": []
+}
